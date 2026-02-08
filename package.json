@@ -98,7 +98,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/DGEORGE-debug/trackify-backend/issues"
   },
